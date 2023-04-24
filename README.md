@@ -1,10 +1,10 @@
 # online-zoo
-["Online-zoo"](https://rn-moonlight.github.io/online-zoo/) is an innovative platform that offers a unique and exciting way for animal lovers to learn about and interact with animals from various zoos around the world. The platform features live webcams of different animals, providing users with the opportunity to observe them in real-time and gain a deeper understanding of their behavior and habitats. Additionally, the platform contains a wealth of information about the animals, including their scientific names, diet, and natural habitats, making it an educational resource as well. 
+["Online-zoo"](https://drjbrn.github.io/online-zoo/) is an innovative platform that offers a unique and exciting way for animal lovers to learn about and interact with animals from various zoos around the world. The platform features live webcams of different animals, providing users with the opportunity to observe them in real-time and gain a deeper understanding of their behavior and habitats. Additionally, the platform contains a wealth of information about the animals, including their scientific names, diet, and natural habitats, making it an educational resource as well. 
 Overall, "Online-zoo" is an excellent tool for anyone interested in wildlife and nature.
 ##
 The website was developed as part of a learning project and features two pages that correspond to their layout. Both pages are interactive, responsive, and meet the specifications outlined in the project's technical requirements.
 
-[Project link](https://rn-moonlight.github.io/online-zoo/)
+[Project link](https://drjbrn.github.io/online-zoo/)
 
 More details about this project:
 - HTML
